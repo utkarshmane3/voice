@@ -4,3 +4,4 @@ git+https://github.com/huggingface/datasets.git
 git+https://github.com/huggingface/transformers.git
 torchaudio
 librosa
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
